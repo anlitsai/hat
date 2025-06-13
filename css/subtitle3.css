@@ -1,0 +1,49 @@
+.subtitle1 {
+	color: #3333FF;
+	text-decoration: none;
+	font-size: 15px;
+
+
+
+}
+a:link {
+	text-decoration: none;
+	color: #3333FF;
+
+}
+a:visited {
+	text-decoration: none;
+	color: #333399;
+
+}
+a:hover {
+	text-decoration: underline;
+	color: #3300FF;
+
+}
+a:active {
+	text-decoration: underline;
+
+}
+.subtitle2 {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 14px;
+
+
+}
+.content {
+	font-size: 13px;
+}
+.bar {
+	font-size: 12px;
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+.subtitle3 {
+	font-size: 15px;
+	color: #000000;
+	text-decoration: none;
+
+}
